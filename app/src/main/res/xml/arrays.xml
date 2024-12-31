@@ -1,0 +1,8 @@
+<resources>
+    <array name="data_photo">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <!-- Tambahkan gambar lainnya -->
+    </array>
+</resources>

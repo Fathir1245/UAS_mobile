@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106275529861",
+    "project_id": "uaspraktikum-88678",
+    "storage_bucket": "uaspraktikum-88678.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106275529861:android:098dfca6b77d78f2eb35ec",
+        "android_client_info": {
+          "package_name": "com.example.uaspraktikum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnzX_etXBjKddaoDWGTuS8GYW9IiA7ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106275529861:android:ce913925465f145deb35ec",
+        "android_client_info": {
+          "package_name": "com.example.utsmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnzX_etXBjKddaoDWGTuS8GYW9IiA7ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

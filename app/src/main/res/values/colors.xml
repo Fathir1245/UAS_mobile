@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="primary">#7B1F12</color>
+    <color name="secondary">#FAF9FB</color>
+    <color name="gray">#81807B</color>
+    <color name="lgray">#ECECEC</color>
+    <color name="kartu">#FFF1F1</color>
+    <color name="lprimary">#FFF9F3</color>
+    <color name="dark_gray">#2C2C2C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#3E5879</color>
+    <color name="red">#213555</color>
+    <color name="hahay">#D8C4B6</color>
+
+</resources>

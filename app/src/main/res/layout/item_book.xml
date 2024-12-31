@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:gravity="center_vertical">
+
+    <!-- ImageView untuk gambar buku -->
+    <ImageView
+        android:id="@+id/book_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="16dp"
+    android:src="@drawable/gambar1" />
+
+    <!-- LinearLayout untuk menampung teks -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+    <!-- TextView untuk judul buku -->
+    <TextView
+        android:id="@+id/book_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Book Title"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <!-- TextView untuk deskripsi buku -->
+    <TextView
+        android:id="@+id/book_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:textSize="14sp" />
+
+    <!-- TextView untuk penerbit buku -->
+    <TextView
+        android:id="@+id/book_publisher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Publisher"
+        android:textSize="14sp" />
+
+    <!-- TextView untuk sinopsis buku -->
+    <TextView
+        android:id="@+id/book_synopsis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Synopsis"
+        android:textSize="14sp" />
+</LinearLayout>
+
+    <!-- Tombol Bookmark -->
+<ImageButton
+android:id="@+id/bookmark_button"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:src="@drawable/ic_bookmark"
+android:contentDescription="Bookmark"
+android:background="?android:attr/selectableItemBackgroundBorderless"
+android:layout_marginStart="16dp" />
+
+    </LinearLayout>
